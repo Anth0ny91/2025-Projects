@@ -1,2 +1,2 @@
-# 2025-Projects
-Some crappy projects made by me.
+# Calculator App written in python. Built using CMD.
+
