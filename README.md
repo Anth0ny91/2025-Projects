@@ -15,7 +15,9 @@ Built With:
 - PyInstaller (to make it a .exe)
 
 How to Run:
+run the exe or
+
 ```bash
 python Calculator.py
 
-Or run the Exe.
+
