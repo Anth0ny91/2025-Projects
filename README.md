@@ -1,2 +1,2 @@
 # 2025-Projects
-Some crappy projects made by me.
+A simple Desktop file size checker
